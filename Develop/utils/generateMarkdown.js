@@ -67,5 +67,5 @@ Reach out to me at;
 (mailto:${data.email})
 `;
 }
-
+console.log(generateMarkdown);
 module.exports = generateMarkdown;
